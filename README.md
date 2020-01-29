@@ -14,4 +14,6 @@ What is Google's Bert?<BR>
 :zap: Example: to predict some word "eat", it will go to all encoding hidden state and generate some key value pair, the hidden state with max value will be selected.<BR>
 :zap: For more detail on Bert Model: https://github.com/google-research/bert
   
-  <img src="https://user-images.githubusercontent.com/47465548/73316538-303e2100-4201-11ea-9c64-9be191583dd3.png" width="90%"></img> 
+  <img src="https://user-images.githubusercontent.com/47465548/73316538-303e2100-4201-11ea-9c64-9be191583dd3.png" width="90%"></img>
+  
+  Demo: http://bit.ly/2Xiy3tW
