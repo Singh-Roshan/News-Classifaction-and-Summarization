@@ -3,7 +3,7 @@
 :+1:	Given a set of documents and their corresponding labels developed a model that can classify them into their respective categories. <BR>  :+1: Implemented classification using Google’s Bert & Supervised algorithms like Neural Network, Random Forest, SVM, Naive Bayes with an accuracy of 90% to correctly predict the label on the data corpus of 1.8 million NYT articles.<BR>
 :+1: Utilized word embedding such as Tf-IDF, Google word2vec to perform the semantic analysis and calculate the similarity of these articles by projecting them into their vector space. <BR> :+1: Generated a summary using Text Teaser Algorithm based on four features such as sentence length, sentence position, keyword frequency, and text-features.
   
-## **Best Model: Google's BERT
+##  Best Model: Google's BERT
 
 What is Google's Bert?<BR>
 :zap: BERT is a method of pre-training language representations, meaning that we train a general-purpose "language understanding" model on a large text corpus (like Wikipedia), and then use that model for downstream NLP tasks that we care about (like question answering).<BR> BERT outperforms previous methods because it is the first unsupervised, deeply bidirectional system for pre-training NLP. <BR> Unsupervised means that BERT was trained using only a plain text corpus, which is important because an enormous amount of plain text data is publicly available on the web in many languages.<BR>
